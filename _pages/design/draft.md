@@ -7,3 +7,7 @@ layout: post
 ---
 
 This is an draft page.
+
+
+
+![8104373B-4313-4D43-8872-9B1BC6A267F9_1_105_c](/Users/jrowing/Documents/GitHub/teachingphysics/_pages/design/assets/8104373B-4313-4D43-8872-9B1BC6A267F9_1_105_c.jpeg)
