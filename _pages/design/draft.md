@@ -6,7 +6,11 @@ category: Jekyll
 layout: post
 ---
 
-This is an draft page. update
+This is an draft page. Update 2
+
+
+
+![9A15913E-D11B-4A6A-9993-B3F256289384_1_105_c](assets/9A15913E-D11B-4A6A-9993-B3F256289384_1_105_c.jpeg)
 
 
 
