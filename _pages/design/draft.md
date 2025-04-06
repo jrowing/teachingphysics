@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-This is an draft page.
+This is an draft page. update
 
 
 
